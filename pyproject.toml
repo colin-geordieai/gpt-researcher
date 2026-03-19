@@ -225,7 +225,7 @@ requirements-txt = [
     "langchain-cohere",
     "langchain-dashscope",
     "langchain-fireworks",
-    "langchain-gigachat",
+    # "langchain-gigachat",  # Incompatible: requires langchain-core<0.4
     "langchain-google-genai",
     "langchain-google-vertexai",
     "langchain-groq",
